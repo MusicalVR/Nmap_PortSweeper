@@ -1,4 +1,4 @@
-#Made by Musical
+#Made by MusicalVR
 #Use with proper authorization
 #This is for targeting ports and os guessing
 #(A really helpful thing BTW)
